@@ -31,7 +31,7 @@
             this.Question.Name = "Question";
             this.Question.Size = new System.Drawing.Size(473, 44);
             this.Question.TabIndex = 0;
-            this.Question.Text = "¿Quieres ser mi novia?";
+            this.Question.Text = "¿Quieres ser mi novia de nuevo?";
             this.Question.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // SI
