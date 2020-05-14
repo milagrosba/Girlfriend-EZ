@@ -31,7 +31,7 @@
             this.Question.Name = "Question";
             this.Question.Size = new System.Drawing.Size(473, 44);
             this.Question.TabIndex = 0;
-            this.Question.Text = "¿Quieres ser mi novia?";
+            this.Question.Text = "¿Quieres ser mi novia otra vez?";
             this.Question.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // SI
@@ -42,11 +42,11 @@
             this.SI.Font = new System.Drawing.Font("Calibri Light", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SI.ForeColor = System.Drawing.Color.White;
             this.SI.Location = new System.Drawing.Point(114, 308);
-            this.SI.Name = "SI";
+            this.SI.Name = "SI AMORCITO";
             this.SI.Size = new System.Drawing.Size(80, 60);
             this.SI.TabIndex = 1;
             this.SI.TabStop = false;
-            this.SI.Text = "SI";
+            this.SI.Text = "SI AMORCITO";
             this.SI.UseVisualStyleBackColor = false;
             this.SI.Click += new System.EventHandler(this.SI_Click);
             // 
